@@ -1,0 +1,11 @@
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\bin\Debug\netcoreapp3.1\Caesar_Cipher.exe
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\bin\Debug\netcoreapp3.1\Caesar_Cipher.deps.json
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\bin\Debug\netcoreapp3.1\Caesar_Cipher.runtimeconfig.json
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\bin\Debug\netcoreapp3.1\Caesar_Cipher.runtimeconfig.dev.json
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\bin\Debug\netcoreapp3.1\Caesar_Cipher.dll
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\bin\Debug\netcoreapp3.1\Caesar_Cipher.pdb
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\obj\Debug\netcoreapp3.1\Caesar_Cipher.csprojAssemblyReference.cache
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\obj\Debug\netcoreapp3.1\Caesar_Cipher.AssemblyInfoInputs.cache
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\obj\Debug\netcoreapp3.1\Caesar_Cipher.AssemblyInfo.cs
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\obj\Debug\netcoreapp3.1\Caesar_Cipher.dll
+C:\VS2019C++C#\C#\Caesar_Cipher\Caesar_Cipher\obj\Debug\netcoreapp3.1\Caesar_Cipher.pdb
